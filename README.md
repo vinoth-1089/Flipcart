@@ -39,7 +39,7 @@ Deployed using:
 ---
 
 ## 👨‍💻 Author  
-Designed & developed by [*Your Name*](https://github.com/vinoth-1089)  
+Designed & developed by [*Vinoth*](https://github.com/vinoth-1089)  
 
 ---
 
