@@ -34,7 +34,7 @@ Deployed using:
 ---
 
 ## 📸 Screenshots  
-(Add homepage & product page screenshots here)  
+<img width="1899" height="965" alt="image" src="https://github.com/user-attachments/assets/2445b179-a650-45d1-9418-2f6033cfb89c" />
 
 ---
 
