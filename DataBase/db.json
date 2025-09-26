@@ -2,12 +2,12 @@
     "product-catagories":
     [
         {   "id":1,
-            "product-image":"https://rukminim1.flixcart.com/flap/64/64/image/29327f40e9c4d26b.png?q=100",
-            "product" :"Mobile"
-        },
-        {   "id":2,
             "product-image":"https://rukminim1.flixcart.com/flap/64/64/image/22fddf3c7da4c4f4.png?q=100",
             "product" :"Grocery"
+        },
+        {   "id":2,
+            "product-image":"https://rukminim1.flixcart.com/flap/64/64/image/29327f40e9c4d26b.png?q=100",
+            "product" :"Mobile"
         },
         {   "id":3,
             "product-image":"https://tse1.mm.bing.net/th/id/OIP.7fSVuAMdyHbqlk2IgA3CIwHaIY?pid=Api&P=0&h=80",
