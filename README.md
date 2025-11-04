@@ -42,6 +42,3 @@ Deployed using:
 Designed & developed by [*Vinoth*](https://github.com/vinoth-1089)  
 
 ---
-
-## 📜 License  
-This project is licensed under the *MIT License*.
